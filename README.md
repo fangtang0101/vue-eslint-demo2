@@ -35,3 +35,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 2. 安装插件 prettier-code-format
 3. code-首选项-设置 搜索 prettier 即可看到 插件的默认配置
 4. 找到 setting 文件 增加 "eslint.autoFixOnSave": true
+5. https://blog.csdn.net/huangpb123/article/details/97974087  参考
+6. 请清除其他的 插件的 影响，卸载
